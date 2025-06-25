@@ -7,7 +7,7 @@
   <project name="xlightningxstar/proprietary_vendor_samsung_gta4l-common" path="vendor/samsung/gta4l-common" remote="github" revision="lineage-22.2" />
   <project name="xlightningxstar/proprietary_vendor_samsung_gta4l" path="vendor/samsung/gta4l" remote="github" revision="lineage-22.2" />
   <!-- Kernel sources -->
-  <project name="xlightningxstar/android_kernel_samsung_gta4l" path="kernel/samsung/gta4l" remote="github" revision="14.0" />
+  <project name="xlightningxstar/android_kernel_samsung_gta4l" path="kernel/samsung/gta4l" remote="github" revision="15.0" />
 
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-22.2" />
 </manifest>
