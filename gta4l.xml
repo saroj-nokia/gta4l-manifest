@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Device trees -->
-  <project name="xlightingxstar/android_device_samsung_gta4l-common" path="device/samsung/gta4l-common" remote="github" revision="lineage-22.2" />
+  <project name="xlightningxstar/android_device_samsung_gta4l-common" path="device/samsung/gta4l-common" remote="github" revision="lineage-22.2" />
   <project name="xlightningxstar/android_device_samsung_gta4l" path="device/samsung/gta4l" remote="github" revision="lineage-22.2" />
   <!-- Vendor trees -->
   <project name="xlightningxstar/proprietary_vendor_samsung_gta4l-common" path="vendor/samsung/gta4l-common" remote="github" revision="lineage-22.2" />
